@@ -38,7 +38,8 @@ export default function AboutUs() {
 
 				<h2 className="main_heading">We design thoughtful, livable spaces.</h2>
 
-				<p className="my-4">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even.</p>
+				<p className="my-4">At [Company], we turn walls into statements. Our tiling services are designed to enhance the beauty, comfort, and character of every space, whether residential, commercial, or industrial.</p>
+				<p className="my-4">We’re not just Tillingers; we’re detail-driven professionals who understand the impact a flawless finish can make. From the very first consultation to the final brushstroke, every project is handled with precision, care, and a commitment to excellence.</p>
 
 				<div className="row mt-4">
 
@@ -47,7 +48,7 @@ export default function AboutUs() {
 						<div className="fea_point">
 
 							<div className="fea_count"><img src="/images/tick.png"/></div>
-							<div className="fea_label">Latest technologies</div>
+							<div className="fea_label">Cutting-edge tools and application techniques</div>
 
 						</div>
 
@@ -58,7 +59,7 @@ export default function AboutUs() {
 						<div className="fea_point">
 
 							<div className="fea_count"><img src="/images/tick.png"/></div>
-							<div className="fea_label">5 Years Warranty</div>
+							<div className="fea_label">Up to 5 Years Warranty on select services</div>
 
 						</div>
 
@@ -69,7 +70,7 @@ export default function AboutUs() {
 						<div className="fea_point">
 
 							<div className="fea_count"><img src="/images/tick.png"/></div>
-							<div className="fea_label">High-Quality Designs</div>
+							<div className="fea_label">Custom color consultation and design support</div>
 
 						</div>
 
@@ -80,7 +81,7 @@ export default function AboutUs() {
 						<div className="fea_point">
 
 							<div className="fea_count"><img src="/images/tick.png"/></div>
-							<div className="fea_label">20 Years Work Experiences</div>
+							<div className="fea_label">Safe, low-odor, eco-conscious tiling options</div>
 
 						</div>
 

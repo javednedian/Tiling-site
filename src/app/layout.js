@@ -1,6 +1,6 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-import Head from "next/head"; 
+import Head from "next/head";
 import Link from "next/link";
 import Image from "next/image";
 import Script from 'next/script';
@@ -26,7 +26,7 @@ export default function RootLayout({ children }) {
       <head>
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Bathroom Services</title>
+        <title>Tiling Services</title>
         {/* Bootstrap CSS */}
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossOrigin="anonymous" />
         <link rel="stylesheet" href="https://fonts.cdnfonts.com/css/outfit" />
@@ -60,10 +60,10 @@ export default function RootLayout({ children }) {
                     aria-expanded="false">
                     Services
                   </a>
-                  
+
                   <ul className="dropdown-menu custom-dropdown">
-                    <li><Link className="dropdown-item" href="/service/backsplash-tiling-here-style-meets-everyday-practicality">Backsplash Tiling</Link></li>
-                    <li><Link className="dropdown-item" href="/service/kitchen-countertops-the-centerpiece-of-every-kitchen">Kitchen Countertops</Link></li>
+                    <li><Link className="dropdown-item" href="/service/floor-tiling-services-dubai">Floor Tiling Services Dubai</Link></li>
+                    <li><Link className="dropdown-item" href="/service/wall-tiling-services-dubai">Wall Tiling Services Dubai</Link></li>
                     <li><Link className="dropdown-item" href="/service/custom-kitchen-design-and-installation">Custom Kitchen Design & Installation</Link></li>
                     <li><Link className="dropdown-item" href="/service/smart-kitchen-solutions">Smart Kitchen Solutions</Link></li>
                     <li><Link className="dropdown-item" href="/service/kitchen-appliance-installation-seamless-safe-and-professional">Kitchen Appliance Installation</Link></li>
@@ -80,10 +80,10 @@ export default function RootLayout({ children }) {
                 <li className="nav-item">
                   <Link className="nav-link" href="/about-us">About Us</Link>
                 </li>
-
+{/*
                 <li className="nav-item">
                   <Link className="nav-link" href="/blogs">Blogs</Link>
-                </li>
+                </li> */}
 
                 <li className="nav-item">
                   <Link className="nav-link" href="/contact-us">Contact Us</Link>
@@ -112,7 +112,7 @@ export default function RootLayout({ children }) {
                 <ul className="list-unstyled">
                   <li><Link href="/about-us" className="text-decoration-none">About Us</Link></li>
                   <li><Link href="/services" className="text-decoration-none">Services</Link></li>
-                  <li><Link href="/blogs" className="text-decoration-none">Blogs</Link></li>
+                  {/* <li><Link href="/blogs" className="text-decoration-none">Blogs</Link></li> */}
                   <li><Link href="/contact-us" className="text-decoration-none">Contact Us</Link></li>
                 </ul>
               </div>
