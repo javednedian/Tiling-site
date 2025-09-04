@@ -64,14 +64,16 @@ export default function RootLayout({ children }) {
                   <ul className="dropdown-menu custom-dropdown">
                     <li><Link className="dropdown-item" href="/service/floor-tiling-services-dubai">Floor Tiling Services Dubai</Link></li>
                     <li><Link className="dropdown-item" href="/service/wall-tiling-services-dubai">Wall Tiling Services Dubai</Link></li>
-                    <li><Link className="dropdown-item" href="/service/custom-kitchen-design-and-installation">Custom Kitchen Design & Installation</Link></li>
-                    <li><Link className="dropdown-item" href="/service/smart-kitchen-solutions">Smart Kitchen Solutions</Link></li>
-                    <li><Link className="dropdown-item" href="/service/kitchen-appliance-installation-seamless-safe-and-professional">Kitchen Appliance Installation</Link></li>
-                    <li><Link className="dropdown-item" href="/service/cabinet-refacing-and-painting-a-fresh-look-without-the-full-renovation">Cabinet Refacing & Painting</Link></li>
-                    <li><Link className="dropdown-item" href="/service/lighting-and-electrical-setup-illuminate-your-kitchen-elevate-your-experience">Lighting & Electrical Setup</Link></li>
-                    <li><Link className="dropdown-item" href="/service/kitchen-plumbing-and-drainage-the-backbone-of-a-functional-kitchen">Kitchen Plumbing & Drainage</Link></li>
-                    <li><Link className="dropdown-item" href="/service/ventilation-and-hood-installation-breathe-easy-with-a-cleaner-healthier-kitchen">Ventilation & Hood Installation</Link></li>
-                    <li><Link className="dropdown-item" href="/service/modular-kitchen-units-flexible-functional-and-designed-for-modern-living">Modular Kitchen Units</Link></li>
+                    <li><Link className="dropdown-item" href="/service/bathroom-tiling-dubai">Bathroom Tiling Dubai</Link></li>
+                    <li><Link className="dropdown-item" href="/service/kitchen-tiling-dubai">Kitchen Tiling Dubai</Link></li>
+                    <li><Link className="dropdown-item" href="/service/outdoor-and-garden-tiling-dubai">Outdoor & Garden Tiling Dubai</Link></li>
+                    <li><Link className="dropdown-item" href="/service/commercial-tiling-dubai">Commercial Tiling Dubai</Link></li>
+                    <li><Link className="dropdown-item" href="/service/luxury-marble-and-granite-tiling-dubai">Luxury Marble & Granite Tiling Dubai</Link></li>
+                    <li><Link className="dropdown-item" href="/service/mosaic-and-decorative-tiling-dubai">Mosaic & Decorative Tiling Dubai</Link></li>
+                    <li><Link className="dropdown-item" href="/service/tile-repair-and-replacement-dubai">Tile Repair & Replacement Dubai</Link></li>
+                    <li><Link className="dropdown-item" href="/service/waterproofing-and-anti-slip-tile-installation-dubai">Waterproofing & Anti-Slip Tile Installation Dubai</Link></li>
+                    <li><Link className="dropdown-item" href="/service/3d-and-designer-tile-installation-dubai">3D & Designer Tiles Installation Dubai</Link></li>
+                    <li><Link className="dropdown-item" href="/service/grouting-and-tile-polishing-dubai">Grouting & Tile Polishing Dubai</Link></li>
 
                     <li><Link className="dropdown-item" href="/services">All Services</Link></li>
                   </ul>
