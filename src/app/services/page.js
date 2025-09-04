@@ -1,9 +1,9 @@
 import Image from "next/image";
-
+import Link from "next/link"
 export default function Services() {
   return (
     <>
-    
+
 <section className="bread_title py-5">
 
 	  <div className="container my-5">
@@ -43,7 +43,7 @@ export default function Services() {
             <div className="col-md-4 mb-4">
 
 				<div className="service_box pt-3 pb-4">
-
+                    <Link href="/service/floor-tiling-services-dubai" style={{textDecoration: "none", color: "unset"}}>
 					<div className="key_box2" style={{textAlign: "left"}}>
 
 						<div className="service_img">
@@ -53,16 +53,16 @@ export default function Services() {
 						</div>
 
 						{/* <h6>01</h6> */}
-						<div className="icon_label">Backsplash Tiling</div>
+						<div className="icon_label">Floor Tiling Services Dubai</div>
 
 					</div>
 
 					<hr className="my-4"></hr>
 
-					<p>In kitchen design, few elements balance function and beauty as perfectly as a backsplash</p>
+					<p>We provide professional ceramic, porcelain, marble, granite, and natural stone floor tiling for durable and elegant surfaces.</p>
 
 					{/* <span className="arrow_btn arrow_btn2" style={{backgroundColor: "#403226"}}><img  src="/images/arrow.png"/></span> */}
-
+                </Link>
 				</div>
 
 			</div>
@@ -70,7 +70,7 @@ export default function Services() {
             <div className="col-md-4 mb-4">
 
 				<div className="service_box pt-3 pb-4">
-
+                    <Link href="/service/wall-tiling-services-dubai" style={{textDecoration: "none", color: "unset"}}>
 					<div className="key_box2" style={{textAlign: "left"}}>
 
 						<div className="service_img">
@@ -80,16 +80,16 @@ export default function Services() {
 						</div>
 
 						{/* <h6>01</h6> */}
-						<div className="icon_label">Kitchen Countertops</div>
+						<div className="icon_label">Wall Tiling Services Dubai</div>
 
 					</div>
 
 					<hr className="my-4"></hr>
 
-					<p>Kitchen countertops are not just surfaces, they are the foundation of your kitchen</p>
+					<p>Expert tiling for bathroom walls, kitchen walls, feature walls, and decorative designs with premium finishes.</p>
 
 					{/* <span className="arrow_btn arrow_btn2" style={{backgroundColor: "#403226"}}><img  src="/images/arrow.png"/></span> */}
-
+                </Link>
 				</div>
 
 			</div>
@@ -97,26 +97,26 @@ export default function Services() {
             <div className="col-md-4 mb-4">
 
 				<div className="service_box pt-3 pb-4">
-
+                    <Link href="/service/bathroom-tiling-dubai" style={{textDecoration: "none", color: "unset"}}>
 					<div className="key_box2" style={{textAlign: "left"}}>
 
 						<div className="service_img">
 
-                    <img  src="/images/custom.jpg" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}}/>					
+                    <img  src="/images/custom.jpg" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}}/>
 
 						</div>
 
 						{/* <h6>01</h6> */}
-						<div className="icon_label">Custom Kitchen Design & Installation</div>
+						<div className="icon_label">Bathroom Tiling Dubai</div>
 
 					</div>
 
 					<hr className="my-4"></hr>
 
-					<p>A kitchen is more than just a room, it's the heart of the home</p>
+					<p>From full bathroom renovations to waterproofing and anti-slip tiling, we ensure safe and stylish bathrooms.</p>
 
 					{/* <span className="arrow_btn arrow_btn2" style={{backgroundColor: "#403226"}}><img  src="/images/arrow.png"/></span> */}
-
+                </Link>
 				</div>
 
 			</div>
@@ -124,26 +124,26 @@ export default function Services() {
 			<div className="col-md-4 mb-4">
 
 				<div className="service_box pt-3 pb-4">
-
+                    <Link href="/service/kitchen-tiling-dubai" style={{textDecoration: "none", color: "unset"}}>
 					<div className="key_box2" style={{textAlign: "left"}}>
 
 						<div className="service_img">
 
-                     <img  src="/images/smart.jpg" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}}/>						
+                     <img  src="/images/smart.jpg" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}}/>
 
 						</div>
 
 						{/* <h6>01</h6> */}
-						<div className="icon_label">Smart Kitchen Solutions</div>
+						<div className="icon_label">Kitchen Tiling Dubai</div>
 
 					</div>
 
 					<hr className="my-4"></hr>
 
-					<p>The kitchen is no longer just a place to cook, it’s a dynamic</p>
+					<p> Specialized kitchen floor, wall, and backsplash tiling that enhances both functionality and modern design.</p>
 
 					{/* <span className="arrow_btn arrow_btn2" style={{backgroundColor: "#403226"}}><img  src="/images/arrow.png"style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}}</span> */}
-
+                </Link>
 				</div>
 
 			</div>
@@ -151,26 +151,26 @@ export default function Services() {
 			<div className="col-md-4 mb-4">
 
 				<div className="service_box pt-3 pb-4">
-
+                    <Link href="/service/tile-repair-and-replacement-dubai" style={{textDecoration: "none", color: "unset"}}>
 					<div className="key_box2" style={{textAlign: "left"}}>
 
 						<div className="service_img">
 
-                     <img  src="images/appliances.jpg" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}}/>						
+                     <img  src="images/appliances.jpg" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}}/>
 
 						</div>
 
 						{/* <h6>01</h6> */}
-						<div className="icon_label">Kitchen Appliance Installation</div>
+						<div className="icon_label">Outdoor & Garden Tiling Dubai</div>
 
 					</div>
 
 					<hr className="my-4"></hr>
 
-					<p>Modern kitchens rely on appliances to bring both convenience and style</p>
+					<p>High-quality balcony, poolside, patio, and interlock tiling for durable and weather-resistant outdoor spaces.</p>
 
 					{/* <span className="arrow_btn arrow_btn2" style={{backgroundColor: "#403226"}}><img  src="images/arrow.png"/></span> */}
-
+                </Link>
 				</div>
 
 			</div>
@@ -178,26 +178,26 @@ export default function Services() {
 			<div className="col-md-4 mb-4">
 
 				<div className="service_box pt-3 pb-4">
-
+                    <Link href="/service/commercial-tiling-dubai" style={{textDecoration: "none", color: "unset"}}>
 					<div className="key_box2" style={{textAlign: "left"}}>
 
 						<div className="service_Image">
 
-					 <img  src="images/Cabinets.jpg" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}}/>						
+					 <img  src="images/Cabinets.jpg" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}}/>
 
 						</div>
 
 						{/* <h6>01</h6> */}
-						<div className="icon_label">Cabinet Refacing & Painting</div>
+						<div className="icon_label">Commercial Tiling Dubai</div>
 
 					</div>
 
 					<hr className="my-4"></hr>
 
-					<p>Sometimes, your kitchen doesn’t need a complete overhaul, it just needs a refresh</p>
+					<p> Professional tiling for offices, hotels, restaurants, and shopping malls with lasting quality and style.</p>
 
 					{/* <span className="arrow_btn arrow_btn2" style={{backgroundColor: "#403226"}}><img  src="images/arrow.png"/></span> */}
-
+                </Link>
 				</div>
 
 			</div>
@@ -205,53 +205,26 @@ export default function Services() {
 			<div className="col-md-4 mb-4">
 
 				<div className="service_box pt-3 pb-4">
-
-					<div className="key_box2" style={{textAlign: "left"}}>
-
-						<div className="service_Image"> 
-
-                     <img  src="images/light.jpg" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}}/>	
-
-						</div>
-
-						{/* <h6>01</h6> */}
-						<div className="icon_label">Lighting & Electrical Setup</div>
-
-					</div>
-
-					<hr className="my-4"></hr>
-
-					<p>Lighting isn’t just about visibility, it’s about atmosphere, functionality, and design</p>
-
-					{/* <span className="arrow_btn arrow_btn2" style={{backgroundColor: "#403226"}}><img  src="images/arrow.png"/></span> */}
-
-				</div>
-
-			</div>
-
-			<div className="col-md-4 mb-4">
-
-				<div className="service_box pt-3 pb-4">
-
+                    <Link href="/service/luxury-marble-and-granite-tiling-dubai" style={{textDecoration: "none", color: "unset"}}>
 					<div className="key_box2" style={{textAlign: "left"}}>
 
 						<div className="service_Image">
 
-                     <img  src="images/kitchenplumbing.jpg" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}}/>						
+                     <img  src="images/light.jpg" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}}/>
 
 						</div>
 
 						{/* <h6>01</h6> */}
-						<div className="icon_label">Kitchen Plumbing & Drainage</div>
+						<div className="icon_label">Luxury Marble & Granite Tiling Dubai</div>
 
 					</div>
 
 					<hr className="my-4"></hr>
 
-					<p>Behind every perfectly functioning kitchen lies a reliable, well-designed kitchen plumbing</p>
+					<p>Premium marble and granite tiling services that bring timeless elegance to any space.</p>
 
 					{/* <span className="arrow_btn arrow_btn2" style={{backgroundColor: "#403226"}}><img  src="images/arrow.png"/></span> */}
-
+                </Link>
 				</div>
 
 			</div>
@@ -259,26 +232,26 @@ export default function Services() {
 			<div className="col-md-4 mb-4">
 
 				<div className="service_box pt-3 pb-4">
-
+                    <Link href="/service/mosaic-and-decorative-tiling-dubai" style={{textDecoration: "none", color: "unset"}}>
 					<div className="key_box2" style={{textAlign: "left"}}>
 
 						<div className="service_Image">
 
-                     <img  src="images/vent.jpg" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}}/>						
+                     <img  src="images/kitchenplumbing.jpg" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}}/>
 
 						</div>
 
 						{/* <h6>01</h6> */}
-						<div className="icon_label">Ventilation & Hood Installation</div>
+						<div className="icon_label">Mosaic & Decorative Tiling Dubai</div>
 
 					</div>
 
 					<hr className="my-4"></hr>
 
-					<p>A beautiful kitchen is only as good as the air you breathe in it</p>
+					<p> Artistic mosaic and decorative tiling, including swimming pool mosaics and luxury custom designs</p>
 
 					{/* <span className="arrow_btn arrow_btn2" style={{backgroundColor: "#403226"}}><img  src="images/arrow.png"/></span> */}
-
+                </Link>
 				</div>
 
 			</div>
@@ -286,25 +259,105 @@ export default function Services() {
 			<div className="col-md-4 mb-4">
 
 				<div className="service_box pt-3 pb-4">
-
+                    <Link href="/service/tile-repair-and-replacement-dubai" style={{textDecoration: "none", color: "unset"}}>
 					<div className="key_box2" style={{textAlign: "left"}}>
 
 						<div className="service_Image">
 
-                      <img  src="images/Modular Kitchen Units.jpg" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}}/>						
+                     <img  src="images/vent.jpg" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}}/>
 
 						</div>
 
 						{/* <h6>01</h6> */}
-						<div className="icon_label">Modular Kitchen Units</div>
+						<div className="icon_label">Tile Repair & Replacement Dubai</div>
+
 					</div>
 
 					<hr className="my-4"></hr>
 
-					<p>In today’s fast-paced world, kitchens need to do more than just look good</p>
+					<p>Reliable tile repair, replacement, re-grouting, and restoration services for all types of tiles.</p>
 
 					{/* <span className="arrow_btn arrow_btn2" style={{backgroundColor: "#403226"}}><img  src="images/arrow.png"/></span> */}
+            </Link>
+				</div>
 
+			</div>
+
+			<div className="col-md-4 mb-4">
+
+				<div className="service_box pt-3 pb-4">
+                        <Link href="/service/waterproofing-and-anti-slip-tile-installation-dubai" style={{textDecoration: "none", color: "unset"}}>
+					<div className="key_box2" style={{textAlign: "left"}}>
+
+						<div className="service_Image">
+
+                      <img  src="images/Modular Kitchen Units.jpg" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}}/>
+
+						</div>
+
+						{/* <h6>01</h6> */}
+						<div className="icon_label">Waterproofing & Anti-Slip Tile Installation Dubai</div>
+					</div>
+
+					<hr className="my-4"></hr>
+
+					<p>Durable waterproof and anti-slip tile installation for bathrooms, outdoor areas, and swimming pools.</p>
+
+					{/* <span className="arrow_btn arrow_btn2" style={{backgroundColor: "#403226"}}><img  src="images/arrow.png"/></span> */}
+                </Link>
+				</div>
+
+			</div>
+
+            			<div className="col-md-4 mb-4">
+
+				<div className="service_box pt-3 pb-4">
+                    <Link href="/service/3d-and-designer-tile-installation-dubai" style={{textDecoration: "none", color: "unset"}}>
+					<div className="key_box2" style={{textAlign: "left"}}>
+
+						<div className="service_Image">
+
+                      <img  src="images/Modular Kitchen Units.jpg" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}}/>
+
+						</div>
+
+						{/* <h6>01</h6> */}
+						<div className="icon_label">3D & Designer Tiles Installation Dubai</div>
+					</div>
+
+					<hr className="my-4"></hr>
+
+					<p>Modern 3D, textured, and decorative designer tiles that transform walls into statement features.</p>
+
+					{/* <span className="arrow_btn arrow_btn2" style={{backgroundColor: "#403226"}}><img  src="images/arrow.png"/></span> */}
+                </Link>
+				</div>
+
+
+			</div>
+
+            	<div className="col-md-4 mb-4">
+
+				<div className="service_box pt-3 pb-4">
+                 <Link href="/service/grouting-and-tile-polishing-dubai" style={{textDecoration: "none", color: "unset"}}>
+					<div className="key_box2" style={{textAlign: "left"}}>
+
+						<div className="service_Image">
+
+                      <img  src="images/Modular Kitchen Units.jpg" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}}/>
+
+						</div>
+
+						{/* <h6>01</h6> */}
+						<div className="icon_label">Grouting & Tile Polishing Dubai</div>
+					</div>
+
+					<hr className="my-4"></hr>
+
+					<p> Complete tile grouting, polishing, sealing, and deep cleaning services for long-lasting shine and finish.</p>
+
+					{/* <span className="arrow_btn arrow_btn2" style={{backgroundColor: "#403226"}}><img  src="images/arrow.png"/></span> */}
+                </Link>
 				</div>
 
 			</div>
