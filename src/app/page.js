@@ -278,7 +278,7 @@ export default function Home() {
 								<SwiperSlide>
 									<div className="item mb-4">
 
-										<Link href="/service/backsplash-tiling-here-style-meets-everyday-practicality">
+										<Link href="/service/floor-tiling-services-dubai">
 
 										<div className="service_box pt-3 pb-4">
 
@@ -310,7 +310,7 @@ export default function Home() {
 								<SwiperSlide>
 									<div className="item mb-4">
 
-										<Link href="/service/kitchen-countertops-the-centerpiece-of-every-kitchen">
+										<Link href="/service/wall-tiling-services-dubai">
 
 										<div className="service_box pt-3 pb-4">
 
@@ -343,7 +343,7 @@ export default function Home() {
 								<SwiperSlide>
 									<div className="item mb-4">
 
-										<Link href="/service/custom-kitchen-design-and-installation">
+										<Link href="/service/bathroom-tiling-dubai">
 
 										<div className="service_box pt-3 pb-4">
 
@@ -375,7 +375,7 @@ export default function Home() {
 								<SwiperSlide>
 									<div className="item mb-4">
 
-										<Link href="/service/smart-kitchen-solutions">
+										<Link href="/service/kitchen-tiling-dubai">
 
 										<div className="service_box pt-3 pb-4">
 
@@ -407,7 +407,7 @@ export default function Home() {
 								<SwiperSlide>
 									<div className="item mb-4">
 
-										<Link href="/service/kitchen-appliance-installation-seamless-safe-and-professional">
+										<Link href="/service/outdoor-and-garden-tiling-dubai">
 
 										<div className="service_box pt-3 pb-4">
 
@@ -439,7 +439,7 @@ export default function Home() {
 								<SwiperSlide>
 									<div className="item mb-4">
 
-										<Link href="/service/cabinet-refacing-and-painting-a-fresh-look-without-the-full-renovation">
+										<Link href="/service/commercial-tiling-dubai">
 
 										<div className="service_box pt-3 pb-4">
 
@@ -471,7 +471,7 @@ export default function Home() {
 								<SwiperSlide>
 									<div className="item mb-4">
 
-										<Link href="/service/lighting-and-electrical-setup-illuminate-your-kitchen-elevate-your-experience">
+										<Link href="/service/luxury-marble-and-granite-tiling-dubai">
 
 										<div className="service_box pt-3 pb-4">
 
@@ -503,7 +503,7 @@ export default function Home() {
 								<SwiperSlide>
 									<div className="item mb-4">
 
-										<Link href="/service/kitchen-plumbing-and-drainage-the-backbone-of-a-functional-kitchen">
+										<Link href="/service/mosaic-and-decorative-tiling-dubai">
 
 										<div className="service_box pt-3 pb-4">
 
@@ -535,7 +535,7 @@ export default function Home() {
 								<SwiperSlide>
 									<div className="item mb-4">
 
-										<Link href="/service/ventilation-and-hood-installation-breathe-easy-with-a-cleaner-healthier-kitchen">
+										<Link href="/service/tile-repair-and-replacement-dubai">
 
 										<div className="service_box pt-3 pb-4">
 
@@ -567,7 +567,7 @@ export default function Home() {
 								<SwiperSlide>
 									<div className="item mb-4">
 
-										<Link href="/service/modular-kitchen-units-flexible-functional-and-designed-for-modern-living">
+										<Link href="/service/waterproofing-and-anti-slip-tile-installation-dubai">
 
 										<div className="service_box pt-3 pb-4">
 
@@ -598,7 +598,7 @@ export default function Home() {
                                 	<SwiperSlide>
 									<div className="item mb-4">
 
-										<Link href="/service/modular-kitchen-units-flexible-functional-and-designed-for-modern-living">
+										<Link href="/service/3d-and-designer-tile-installation-dubai">
 
 										<div className="service_box pt-3 pb-4">
 
@@ -629,7 +629,7 @@ export default function Home() {
                                 	<SwiperSlide>
 									<div className="item mb-4">
 
-										<Link href="/service/modular-kitchen-units-flexible-functional-and-designed-for-modern-living">
+										<Link href="/service/grouting-and-tile-polishing-dubai">
 
 										<div className="service_box pt-3 pb-4">
 
