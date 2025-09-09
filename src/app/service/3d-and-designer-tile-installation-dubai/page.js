@@ -86,7 +86,7 @@ export default function VentilationAndHoodInstallationBreatheEasyWithACleanerHea
 			</div>
 	    <div className="col-md-6 my-auto">
 
-				<img  src="/images/vent.jpg" className="w-100" style={{borderRadius: "30px" ,height: "450px"}}/>
+				<img  src="/images/Aleatory-White-Matt-02-copy.png" className="w-100" style={{borderRadius: "30px" ,height: "450px"}}/>
 
 			</div>
     </div>
