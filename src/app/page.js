@@ -163,7 +163,7 @@ export default function Home() {
 
 						<div className="col-md-6 my-auto">
 
-							<img src="/images/about2.jpg" className="w-100" style={{borderRadius: "30px" , height: "460px"}}/>
+							<img src="/images/cement-plomb-main-1000_1.jpg" className="w-100" style={{borderRadius: "30px" , height: "460px"}}/>
 
 						</div>
 
@@ -286,7 +286,7 @@ export default function Home() {
 
 												<div className="service_img">
 
-													<img src="/images/kitchenBacksplash.jpg" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}}/>
+													<img src="/images/Marble-tile-flooring-in-Al-Barsha-768x480.webp" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}}/>
 
 												</div>
 
@@ -318,7 +318,7 @@ export default function Home() {
 
 												<div className="service_img">
 
-													<img src="/images/Countertops.jpg" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}}/>
+													<img src="/images/best-wall-tiling-company-dubai.jpg" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}}/>
 
 
 												</div>
@@ -351,7 +351,7 @@ export default function Home() {
 
 												<div className="service_img">
 
-											<img src="/images/custom.jpg" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}} />
+											<img src="/images/Contemporary-Bathroom-Design-Trends-1200x900.jpeg" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}} />
 												</div>
 
 												{/* <h6>03</h6> */}
@@ -383,7 +383,7 @@ export default function Home() {
 
 												<div className="service_img">
 
-											<img src="/images/smart.jpg" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}} />
+											<img src="/images/kitchen.jpg" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}} />
 												</div>
 
 												{/* <h6>04</h6> */}
@@ -415,7 +415,7 @@ export default function Home() {
 
 												<div className="service_img">
 
-											<img src="/images/appliances.jpg" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}} />
+											<img src="/images/819e6a1ae65e78dd7e062e996f57e1ca24f14d1286485d683f05ae8bd75f7782.webp" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}} />
 												</div>
 
 												{/* <h6>05</h6> */}
@@ -447,7 +447,7 @@ export default function Home() {
 
 												<div className="service_img">
 
-											<img src="/images/Cabinets.jpg" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}} />
+											<img src="/images/Commercial-Spaces-Floor-Tiles-1-min.webp" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}} />
 												</div>
 
 												{/* <h6>06</h6> */}
@@ -479,7 +479,7 @@ export default function Home() {
 
 												<div className="service_img">
 
-											<img src="/images/light.jpg"  style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}} />
+											<img src="/images/INVISIBLE-GOLD.webp"  style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}} />
 												</div>
 
 												{/* <h6>07</h6> */}
@@ -511,7 +511,7 @@ export default function Home() {
 
 												<div className="service_img">
 
-											<img src="/images/kitchenplumbing.jpg"  style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}} />
+											<img src="/images/Trend-Group-4.jpg"  style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}} />
 												</div>
 
 												{/* <h6>08</h6> */}
@@ -543,7 +543,7 @@ export default function Home() {
 
 												<div className="service_img">
 
-											<img src="/images/vent.jpg"  style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}}/>
+											<img src="/images/commercialtilefancy2.jpg"  style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}}/>
 												</div>
 
 												{/* <h6>09</h6> */}
@@ -575,7 +575,7 @@ export default function Home() {
 
 												<div className="service_img">
 
-											<img src="/images/Modular Kitchen Units.jpg" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}} />
+											<img src="/images/glass-mosaic-border-tiles-for-swimming-pools.jpg" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}} />
 												</div>
 
 												{/* <h6>10</h6> */}
@@ -606,7 +606,7 @@ export default function Home() {
 
 												<div className="service_img">
 
-											<img src="/images/Modular Kitchen Units.jpg" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}} />
+											<img src="/images/Aleatory-White-Matt-02-copy.png" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}} />
 												</div>
 
 												{/* <h6>10</h6> */}
@@ -637,7 +637,7 @@ export default function Home() {
 
 												<div className="service_img">
 
-											<img src="/images/Modular Kitchen Units.jpg" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}} />
+											<img src="/images/m1.webp" style={{ width: "100%" , borderRadius: "30px" , marginBottom: "20px" , height: "231px"}} />
 												</div>
 
 												{/* <h6>10</h6> */}
@@ -722,7 +722,7 @@ export default function Home() {
 
 						<div className="col-md-7 my-auto text-center">
 
-							<img src="/images/about3.jpg" className="w-100" style={{borderRadius: "30px" , height: "460px"}}/>
+							<img src="/images/3d-natural-stone-front-wall-tiles.jpg" className="w-100" style={{borderRadius: "30px" , height: "460px"}}/>
 
 						</div>
 

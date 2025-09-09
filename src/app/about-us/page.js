@@ -97,7 +97,7 @@ export default function AboutUs() {
 
 			<div className="col-md-6 my-auto">
 
-				<img src="/images/about2.jpg" className="w-100" style={{borderRadius: "30px" , height: "460px"}}/>
+				<img src="/images/3d-natural-stone-front-wall-tiles.jpg" className="w-100" style={{borderRadius: "30px" , height: "460px"}}/>
 
 			</div>
 

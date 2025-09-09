@@ -86,7 +86,7 @@ export default function LightingAndElectricalSetupIlluminateYourKitchenElevateYo
 			</div>
 	    <div className="col-md-6 my-auto">
 
-				<img  src="/images/light.jpg" className="w-100" style={{borderRadius: "30px" ,height: "450px"}}/>
+				<img  src="/images/819e6a1ae65e78dd7e062e996f57e1ca24f14d1286485d683f05ae8bd75f7782.webp" className="w-100" style={{borderRadius: "30px" ,height: "450px"}}/>
 
 			</div>
     </div>

@@ -83,7 +83,7 @@ export default function CabinetRefacingAndPaintingAFreshLookWithouttheFullRenova
 
 			</div>
 	    <div className="col-md-6 my-auto">
-         <img  src="/images/Cabinets.jpg" className="w-100" style={{borderRadius: "30px" ,height: "450px"}}/>
+         <img  src="/images/Contemporary-Bathroom-Design-Trends-1200x900.jpeg" className="w-100" style={{borderRadius: "30px" ,height: "450px"}}/>
             </div>
     </div>
     <h3 className="sub_heading">2. Safety, Durability & Comfort Combined</h3>

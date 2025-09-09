@@ -88,7 +88,7 @@ export default function backsplashTilingWhereStyleMeetsEverydayPracticality() {
 			</div>
 	    <div className="col-md-6 my-auto">
 
-				<img src="/images/kitchenBacksplash.jpg" className="w-100" style={{borderRadius: "30px" ,height: "450px"}}/>
+				<img src="/images/Marble-tile-flooring-in-Al-Barsha-768x480.webp" className="w-100" style={{borderRadius: "30px" ,height: "450px"}}/>
 
 			</div>
     </div>
